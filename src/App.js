@@ -16,6 +16,8 @@ export default function App() {
           </Father>
         )}
       </GrandFather>
+      <Father />
+      <Son />
     </div>
   );
 }
